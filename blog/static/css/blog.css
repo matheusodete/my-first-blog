@@ -118,6 +118,7 @@ body {
     border-radius: 30px;
     border: 1px solid #FFF;
     background: rgba(217, 217, 217, 0.05);
+    animation: none;
 }
 
 .email {
